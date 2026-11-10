@@ -1,0 +1,43 @@
+.ai-use-big {
+  position: absolute;
+  top: 210px;
+  left: 150px;
+  right: 120px;
+  margin: 0;
+  padding: 0 0 0 50px;
+  font-size: 56px;
+}
+
+.ai-use-big > li {
+  margin-bottom: 70px;
+}
+
+.ai-use-big ul {
+  margin: 20px 0 0;
+  padding-left: 60px;
+  font-size: 44px;
+}
+
+.ai-use-big ul li {
+  margin-bottom: 12px;
+}
+
+.ai-use-thumb {
+  height: 60px;
+  vertical-align: -8px;
+  margin-left: 16px;
+}
+
+.ai-use-link {
+  color: #0b57d0;
+  text-decoration: underline;
+}
+
+.ai-use-diagram {
+  position: absolute;
+  top: 150px;
+  left: 60px;
+  width: 1800px;
+  height: 890px;
+  object-fit: contain;
+}

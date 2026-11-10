@@ -1,0 +1,9 @@
+# Parts of the stitched deck, one folder name of slides/parts/ per line, in talk order.
+# Edited only when the user asks. The example part is not part of the talk.
+title
+ai-use
+precess
+gw-ring
+polar
+sphere
+gw231123

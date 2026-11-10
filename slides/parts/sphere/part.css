@@ -1,0 +1,16 @@
+.sphere-canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  touch-action: none;
+}
+.sphere-canvas.sphere-grab { cursor: grab; }
+.sphere-canvas.sphere-grabbing { cursor: grabbing; }
+.sphere-axis-label {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+}
+.sphere-axis-label { color: #8a8a8a; }

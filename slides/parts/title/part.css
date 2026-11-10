@@ -1,0 +1,83 @@
+.title-talk {
+  position: absolute;
+  top: 190px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  font-size: 66px;
+  font-weight: bold;
+  line-height: 1.25;
+}
+
+.title-speaker {
+  position: absolute;
+  top: 470px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  font-size: 52px;
+}
+
+.title-event {
+  position: absolute;
+  top: 580px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  font-size: 40px;
+}
+
+.title-logos {
+  position: absolute;
+  top: 790px;
+  left: 0;
+  right: 0;
+  height: 190px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 160px;
+}
+
+.title-logo-ias {
+  height: 100px;
+}
+
+.title-logo-croucher {
+  height: 190px;
+}
+
+.title-keys {
+  position: absolute;
+  top: 1005px;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  font-size: 22px;
+  color: #999;
+}
+
+.title-key {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 34px;
+  height: 30px;
+  border: 1px solid #ccc;
+  border-bottom-width: 3px;
+  border-radius: 6px;
+  background: #fafafa;
+}
+
+.title-key svg {
+  width: 18px;
+  height: 18px;
+  fill: none;
+  stroke: #999;
+  stroke-width: 1.6;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
